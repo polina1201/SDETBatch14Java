@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62d1f85c-e931-4dc0-9ff4-813a0504de0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Class15/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+    <list default="true" id="62d1f85c-e931-4dc0-9ff4-813a0504de0e" name="Changes" comment="Class 15">
+      <change afterPath="$PROJECT_DIR$/src/Class15/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class15/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,6 +123,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664477370249</updated>
     </task>
+    <task id="LOCAL-00001" summary="Class 15">
+      <created>1664723533294</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664723533294</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +179,10 @@
         <entry key="98dc669a-5e0a-4734-bc17-8976923dae0b" value="TOOL_WINDOW" />
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Class 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
