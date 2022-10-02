@@ -2,37 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d1f85c-e931-4dc0-9ff4-813a0504de0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDETBatch14Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/MethodsDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/MethodsDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/MethodsDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/MethodsDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/StringBufferVsStringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/StringRecap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Task5Polindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClassB14/Questions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClassB14/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClassB14/StringMethods1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class15/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class15/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/polin/IdeaProjects/SDETBatch14Java/src/Class13",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.excludes"
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
   <component name="RunManager">
@@ -126,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.StringRecap" />
         <item itemvalue="Application.StringMethods1" />
         <item itemvalue="Application.StringMethods" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +129,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="98dc669a-5e0a-4734-bc17-8976923dae0b">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/polin/IdeaProjects/SDETBatch14Java/src/Class13" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -159,6 +165,11 @@
             </State>
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="98dc669a-5e0a-4734-bc17-8976923dae0b" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
