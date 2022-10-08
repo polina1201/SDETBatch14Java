@@ -21,6 +21,7 @@ or Girl?
         String babyType;
         String firstHalf;
         String secondHalf;
+
         Scanner scanner=new Scanner(System.in);
         System.out.println("Please Enter the name of mother");
         motherName=scanner.next();
@@ -30,7 +31,8 @@ or Girl?
                 boolean boy=true;
                 boolean girl=false;
                 babyType=scanner.next();
-        if(babyType.equals("boy")) {
+
+         if(babyType.equals("boy")) {
             firstHalf=fatherName.substring(0,fatherName.length()/2);
             secondHalf=motherName.substring(motherName.length()/2);
         }else {

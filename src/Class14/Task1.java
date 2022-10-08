@@ -6,7 +6,7 @@ public class Task1 {
         Write a program to get a new String without any spaces*/
 
         String str="We love Java";
-        str=str.replaceAll("","");
+        str=str.replaceAll(" ","");
         System.out.println("str = "+str);
 
 

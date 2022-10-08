@@ -6,15 +6,17 @@ public class Main {
    StringBuilder  allows any methods to change the original contents of the
 variables  because StringBuilder is mutable.
     */
-    StringBuilder stringBuilder=new StringBuilder("Intellij is great");
+        StringBuilder stringBuilder=new StringBuilder("Intellij is great");
+        System.out.println(stringBuilder);
         stringBuilder.reverse();
         System.out.println(stringBuilder);
+
     /*
     String does not allow any methods to change the original contents of the
 variables because String is immutable
      */
     String str="Intellij ";
-        str.toLowerCase();
+        str.toLowerCase(); //String class doesn't allow to change the original content. It'll come back as original
         System.out.println(str);
       /*  String country="USA";
         String home="USA";

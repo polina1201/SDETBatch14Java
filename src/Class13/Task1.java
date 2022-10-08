@@ -7,7 +7,7 @@ public class Task1 {
         print the character in the middle of the String.
          */
     public static void main(String[] args) {
-        String str="hello";
+        String str="Helloooo0";
         int length=str.length();
         if(!str.isEmpty()&&length%2!=0&&length>=3) {
             int middleIndex=length/2;

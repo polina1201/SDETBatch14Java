@@ -25,7 +25,7 @@ public class StringDemo3 {
         System.out.println(str.replaceAll("[^A-Z]",""));
         /*
          * Remove all letters  other than A to Z and a to z refer
-         *  the asci table for range info
+         *  the asci table for range info. ^ means "not"; regular expression; carrot symbol
          */
         System.out.println(str.replaceAll("[^a-zA-Z]",""));
         /*
