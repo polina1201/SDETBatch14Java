@@ -11,11 +11,17 @@ public class Task4 {
 // System.out.println(stringBuilder); -> Reverses the sentence
 
         String str="This is sentence i want to reverse";
-        String[] str1=str.split(" ");
-        int value=str1.length;
-        for (int i=0; i<value; i++){
-            StringBuilder str2=new StringBuilder(str1[i]);
-            System.out.print(str2.reverse()+" ");
+        String[]arr=str.split(" ");
+        StringBuilder st=new StringBuilder();
+        for (int i=0; i<arr.length; i++) {
+            String word = arr[i];
+            StringBuilder stringBuilder = new StringBuilder(word);
+            stringBuilder.reverse();
+            arr[i] = stringBuilder.toString();
+            st.append(arr[i]).append(" ");
+        }
+        System.out.println(st);
+
         }
     }
-}
+
