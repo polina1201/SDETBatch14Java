@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d1f85c-e931-4dc0-9ff4-813a0504de0e" name="Changes" comment="Class 15">
-      <change afterPath="$PROJECT_DIR$/src/Class12/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class12/PhoneTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class12/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class12/StringDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class12/StringDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class12/StringDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class12/StringDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class12/StringDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class12/StringDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class12/StringDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class12/StringDemo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class12/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/Task1Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils/StringUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13/StringDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13/StringDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13/StringDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13/StringDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13/StringDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13/StringDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13/StringDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class14/StringBufferVsStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/StringBufferVsStringBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +44,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/polin/IdeaProjects/SDETBatch14Java/src/Class13",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.excludes"
   }
 }]]></component>
   <component name="RunManager">
@@ -133,10 +109,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringRecap" />
         <item itemvalue="Application.Dog" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.StringRecap" />
         <item itemvalue="Application.StringMethods1" />
       </list>
     </recent_temporary>

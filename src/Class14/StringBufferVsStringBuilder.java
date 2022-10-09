@@ -3,6 +3,7 @@ package Class14;
 public class StringBufferVsStringBuilder {
     public static void main(String[] args) {
 
+        //StringBuilder and StringBuffer are the exact same thing and used interchangeably
         StringBuilder stringBuilder=new StringBuilder("Today is Java Class");
         StringBuffer stringBuffer=new StringBuffer("Today is Java Class");
 
