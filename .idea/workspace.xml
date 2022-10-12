@@ -2,34 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d1f85c-e931-4dc0-9ff4-813a0504de0e" name="Changes" comment="Class 15">
-      <change afterPath="$PROJECT_DIR$/src/Class16/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/PersonTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/SyntaxEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/CatTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/DogTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/EmpTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Task1Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/CatTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/Task3Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class18/ThisKeywordDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/Math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/MethodsDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/MethodsDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/MethodsDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/MethodsDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class15/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class15/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class15/LocalVarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class15/LocalVarDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class15/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class15/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class15/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class15/Task7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class16/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class16/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class16/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class16/Task1Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class16/Task1Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class17/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class17/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

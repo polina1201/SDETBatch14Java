@@ -9,7 +9,7 @@ public class Employee {
     private double actualSalary;
     static String companyName="Syntax";
 
-    public  Employee(String empName,String empDepart,double empSalary,int empAge ){
+    public  Employee(String empName,String empDepart,double empSalary,int empAge ){   //This is our constructor
         name=empName;
         department=empDepart;
         salary=empSalary;
@@ -21,8 +21,13 @@ public class Employee {
         System.out.println(actualSalary);
     }
 
-    void calculatePrintTax(){
-        double tax=actualSalary*.3;
-        System.out.println("Tax "+tax);
+    void calculatePrintTax() {
+        double tax = actualSalary * .3;
+        System.out.println("Tax " + tax);
+
     }
-}
+
+
+    }
+
+
