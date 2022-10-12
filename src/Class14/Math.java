@@ -2,6 +2,7 @@ package Class14;
 
 public class Math {
 
+    //Write a Java Program to print the first 10 numbers of Fibonacci code
     void add(int num1, int num2){
         System.out.println(num1+num2);
     }

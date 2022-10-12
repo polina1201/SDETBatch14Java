@@ -8,19 +8,18 @@ public class LocalVarDemo {
         //local variables are defined inside blocks of code
         //and can only be used inside those blocks
 
-        //Syste.out.println(name);
+        //System.out.println(name);
         for (int i = 0; i < 10; i++) {
-            System.out.println(i);
+            System.out.print(i + " ");
         }
         {
-            int i=0;
+            int i = 0;
         }
-        //System.out.println(i);
+    }
+        void printNumbers () {
+            int number = 4;
+            //System.out.println(number);
+            String name = "Allan";
+        }
     }
 
-    void printNumbers(){
-        int number=4;
-        //System.out.println(number);
-        String name="Allan";
-    }
-}

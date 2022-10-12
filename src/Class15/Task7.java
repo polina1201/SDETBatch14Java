@@ -1,7 +1,7 @@
 package Class15;
 
 public class Task7 {
-    //Write a method to return whether given number is prime or not?
+
     //Create  class Student that will have a method getGrade. Your method should accept the score of a student and return a grade:
     //score > 90 - A
     //score >80 - B

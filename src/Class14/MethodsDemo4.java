@@ -3,6 +3,7 @@ package Class14;
 public class MethodsDemo4 {
 
     boolean mystery(){
+
         return true;
     }
 

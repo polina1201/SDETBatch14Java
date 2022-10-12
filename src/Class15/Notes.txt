@@ -49,7 +49,8 @@ TYPES OF VARIABLES WITH RESPECT TO THEIR SCOPE:
 
 Local variables:
 
-    A variable that is created inside a method loop switch case or any block of code, is called local variable.
+    A variable that is created inside a method, loop, switch, case, or any block of code, is called local variable.
+
 When we should use local variables:
     Local variables occupy the computers memory for the shortest  amount of time. We should always go with
     local variables if it's possible. But, they are limited in scope, we can't use local variables
@@ -59,7 +60,7 @@ When we should use local variables:
     System.out.println(i);
     }
 
- Instance variables:
+Instance variables:
    A variable which is declared outside a block of code, but inside a class.
 When we should use instance variables:
     When we are planning to create multiple objects of a class or if we want to share something in
