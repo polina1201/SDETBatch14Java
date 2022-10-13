@@ -24,7 +24,10 @@ NOTE: please use different names for instance and local variables.
     }
 
     public static void main(String[] args) {
-        new Student("Sabah",99,98,97.5).calculatePrintAvgGrade();
+  new Student("Sabah",99,98,97.5).calculatePrintAvgGrade();
+new Student ("Dash", 98,97,69).calculatePrintAvgGrade();
+
+
 
     }
 

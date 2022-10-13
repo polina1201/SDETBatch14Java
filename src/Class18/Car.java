@@ -1,7 +1,7 @@
 package Class18;
 
 public class Car {
-    //Common class has many names like parent class super class
+    //Common class has many names like parent class, super class, base class
     String model;
     String make;
     int year;
@@ -17,7 +17,7 @@ public class Car {
 }
 
 class BMW extends Car{
-    // Child classes base classes
+    // Child classes, base classes
     double engineCC;
 
 }
@@ -38,6 +38,12 @@ class CarTester{
         bmw.model="x8";
         bmw.engineCC=200;
         bmw.printCarDetails();
+
+Toyota toyota= new Toyota();
+toyota.make="Toyota";
+toyota.color="white";
+toyota.model="Corola";
+toyota.printCarDetails();
 
     }
 }
