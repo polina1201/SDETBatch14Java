@@ -2,23 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d1f85c-e931-4dc0-9ff4-813a0504de0e" name="Changes" comment="Class 15">
-      <change afterPath="$PROJECT_DIR$/src/Class13/sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/Task1FromPck18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class19/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class19/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class19/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class19/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class19/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class19/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClassB14/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_4_2022_7_53_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_4_2022_7_53_PM__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class19/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class19/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class19/Crow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class18/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class18/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class18/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class18/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class18/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class18/ConsTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class18/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class18/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class19/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class19/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class19/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class19/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class19/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class19/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class19/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class19/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

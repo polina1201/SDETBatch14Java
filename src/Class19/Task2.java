@@ -6,33 +6,33 @@ Write Book class that will have instance variables and 2 Constructors. While cre
 Instance variables are being initialized
 Both Constructors are being executed
    */
-    public static void main(String[] args) {
-        Book headFirstJava=new Book("HeadIFirstJava","Kathy",12,13345);
-        new Book("HeadIFirstJava","Kathy",12);
-        //Break till 11:45
+
     }
 
-
-}
-
-class Book{
+class Book {
     String name;
     String author;
     int noOfTotalCh;
     int ISBN;
 
-    public Book(String name,String author,int noOfTotalCh,int ISBN){
+    public Book(String name, String author, int noOfTotalCh, int ISBN) {
        /* this.name=name;
         this.author=author;
         this.noOfTotalCh=noOfTotalCh;*/
         this(name, author, noOfTotalCh);
-        this.ISBN=ISBN;
+        this.ISBN = ISBN;
     }
 
-    public Book(String name,String author,int noOfTotalCh){
-        this.name=name;
-        this.author=author;
-        this.noOfTotalCh=noOfTotalCh;
+    public Book(String name, String author, int noOfTotalCh) {//Constructor
+        this.name = name;
+        this.author = author;
+        this.noOfTotalCh = noOfTotalCh;
     }
 
+    public static void main(String[] args) {//constractor
+        Book headFirstJava = new Book("HeadIFirstJava", "Kathy", 12, 13345);
+       new Book ("DataStructre", "Polina", 14);
+
+
+    }
 }

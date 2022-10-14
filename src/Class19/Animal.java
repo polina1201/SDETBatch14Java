@@ -5,7 +5,7 @@ public class Animal {
     String breed;
     String color;
 
-    public Animal(String name, String breed, String color) {
+    Animal(String name, String breed, String color) {//constructor
         this.name = name;
         this.breed = breed;
         this.color = color;
