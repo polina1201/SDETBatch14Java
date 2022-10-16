@@ -1,33 +1,30 @@
 package Class21;
 
 public class Animal {
-    public class Employee {
-
-        String name;
-        double baseSalary = 40000;
-        double bonus = 20000;
-
-        void calculateSalary() {
-            System.out.println(baseSalary + bonus);
-        }
-
+    String name;
+    String color;
+    String breed;
+    void sleep(){
+        System.out.println(" Animals usually sleep for 6 hours");
     }
-
-    class Developer extends Employee {
-
-        void calculateSalary() {
-            System.out.println(2 * baseSalary + (1.5 * bonus));
-        }
-
-    }
-
-    class Tester extends Employee {
-
-        void calculateSalary() {
-            System.out.println(baseSalary + (2 * bonus));
-        }
-    }
-
-    class OfficeBoy extends Employee {
+    void eat(){
+        System.out.println("Grass and meat");
     }
 }
+
+class Cat extends Animal{
+    void sleep(){
+        System.out.println("I like to sleep for 20 hours");
+    }
+    void eat(){
+        System.out.println("i only like fish");
+    }}
+
+class Dog extends Animal{
+
+    void sleep() {
+        System.out.println(" I like to sleep for 10 hours");
+    }
+    void eat(){
+        System.out.println("Dogs like meat");
+    }}
