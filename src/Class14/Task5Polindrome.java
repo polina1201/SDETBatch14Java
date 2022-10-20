@@ -5,7 +5,7 @@ public class Task5Polindrome {
 
         //How would you check if String is palindrome or not? aba=> true Abbc =>false
 
-        String str="dad";
+        String str="dab";
         StringBuilder stringBuilder=new StringBuilder("dad");
         stringBuilder.reverse();
         if(stringBuilder.toString().equals(str)){

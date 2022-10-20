@@ -2,24 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d1f85c-e931-4dc0-9ff4-813a0504de0e" name="Changes" comment="Class 15">
-      <change afterPath="$PROJECT_DIR$/src/Class21/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/BrowserTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/CarTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/CastingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/CreditCardTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/FinalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/WebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/WebDriverTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/DataBaseTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/IDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/InterfaceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/StudentTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Repls.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class21/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class21/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class13/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13/StringDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class14/Task5Polindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/Task5Polindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,19 +49,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/polin/IdeaProjects/SDETBatch14Java/src/Class13&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/polin/IdeaProjects/SDETClone/SDETBatch14Java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\polin\IdeaProjects\SDETBatch14Java\src\Class17" />

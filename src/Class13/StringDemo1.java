@@ -20,7 +20,7 @@ public class StringDemo1 {
         int index = str.indexOf("a");//where the first "a" is
         System.out.println(index);
         System.out.println(str.indexOf("a", 6));//Start counting from 6th letter to find an "a"
-polina melvin
+
 
     }
 }
