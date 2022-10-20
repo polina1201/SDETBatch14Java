@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d1f85c-e931-4dc0-9ff4-813a0504de0e" name="Changes" comment="Class 15">
-      <change afterPath="$PROJECT_DIR$/src/Class23/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/DataBaseTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/IDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/InterfaceTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/StudentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Repls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/StringNewString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/StringPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/StringPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/StringPracticeReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13/StringDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/Task5Polindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/Task5Polindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Repls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Repls.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
