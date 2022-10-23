@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d1f85c-e931-4dc0-9ff4-813a0504de0e" name="Changes" comment="Class 15">
-      <change afterPath="$PROJECT_DIR$/src/Practice/StringNewString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/StringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/StringPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/StringPracticeReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Headphones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/HeadphonesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Mouse1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Mouse2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Mouse3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/MouseMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/OOPAlexLee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/OOPAlexMAin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Project2/Marks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review3/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review3/Peru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review3/USA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review4/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review4/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review4/Fruit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Repls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Repls.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +54,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/polin/IdeaProjects/SDETClone/SDETBatch14Java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/polin/IdeaProjects/SDETClone/SDETBatch14Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\polin\IdeaProjects\SDETBatch14Java\src\Class17" />
@@ -63,7 +75,7 @@
       <recent name="Class16" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Dog">
     <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class15.Dog" />
       <module name="SDETBatch14Java" />
