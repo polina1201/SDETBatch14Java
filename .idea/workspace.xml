@@ -2,58 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d1f85c-e931-4dc0-9ff4-813a0504de0e" name="Changes" comment="Class 15">
-      <change afterPath="$PROJECT_DIR$/src/Class08Loops/BreakKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08Loops/ContinueKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08Loops/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08Loops/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08Loops/NestedLoopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08Loops/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08Loops/Recap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08Loops/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08Loops/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08Loops/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/AllElementsFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/ArrayDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/ArrayFixedSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/ArraysNotes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/ClockAnotherWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/ClockAnotherWay2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/HW1and2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/HW3and4and5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/Patterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/Recap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09Arrays/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/DoWhileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/DoWhileExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/ForLoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/HW3Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/HW6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/IncrementAndDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/JobWithWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/ShortHandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/SwitchCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/WhileLoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07ForDoWhileLoop/WhileLoopDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class10/EnhancedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class10Array2D/EnhancedLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class10/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class10Array2D/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class10/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class10Array2D/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class10/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class10Array2D/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class10/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class10Array2D/TwoDArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class10/TwoDArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class10Array2D/TwoDArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class10/TwoDArrayDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class10Array2D/TwoDArrayDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class11/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11ObjectClass/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class11/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11ObjectClass/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class11/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11ObjectClass/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class11/ObjectCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11ObjectClass/ObjectCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class11/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11ObjectClass/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class11/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11ObjectClass/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class11/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11ObjectClass/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12/PhoneTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/PhoneTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/StringDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12/StringDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/StringDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12/StringDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/StringDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12/StringDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/StringDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12/StringDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/StringDemo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12/StringDemo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/StringDemo6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12/StringDemo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/StringDemo7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12/StringDemo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/StringDemo8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/Task.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
